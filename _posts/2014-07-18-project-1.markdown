@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2017-07-22
+img: bloodhub.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: LUMS
+category: Application Development
+description: Developed an android application to help blood requests reach suitable donors and to raise awareness abouth blood donations. The app was built using the user-centric design approach. During the process of requirements gathering, multiple stakeholders were interviewed and the optimal working solution was designed. This project got selected for the LUMS Summer Research Program under the supervision of Dr. Suleman Shahid.
 ---
