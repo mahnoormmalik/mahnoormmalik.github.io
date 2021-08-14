@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: BloodHub
 date: 2017-07-22
 img: bloodhub.png
 alt: image-alt
