@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2021-01-01
+img: iot.png
+alt: arduino
+project-date: January 2021
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Developed a completed end to end IOT system to calculate the room comfort level measured by the Humidex. The system was built using DHT11 sensor to collect humidity and temperature sensor. The sensor was connected to an arduino with the ethernet module. The raspberry pi served as a server with Flask Rest API implementation which collected sensor data from the arduino and stored it locally in a database. The room sensor data was displayed on user UI using node-red.
 ---

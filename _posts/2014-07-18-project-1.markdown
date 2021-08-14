@@ -5,7 +5,6 @@ date: 2017-07-22
 img: bloodhub.png
 alt: image-alt
 project-date: April 2014
-client: LUMS
 category: Application Development
 description: Developed an android application to help blood requests reach suitable donors and to raise awareness abouth blood donations. The app was built using the user-centric design approach. During the process of requirements gathering, multiple stakeholders were interviewed and the optimal working solution was designed. This project got selected for the LUMS Summer Research Program under the supervision of Dr. Suleman Shahid.
 ---
