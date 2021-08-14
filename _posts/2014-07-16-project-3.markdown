@@ -6,5 +6,5 @@ img: treedex.png
 alt: treedex app
 project-date: March 2017
 category: Software Engineering
-description: Developed a cross-platform application wsing React-Native to create interaction with the environment in turn raising awareness about it. 
+description: Developed a cross-platform application wsing React-Native to create interaction with the environment in turn raising awareness about it. Users could scan a plant from the environment to learn more about it. The application used Firebase database and authentication as backend.
 ---
