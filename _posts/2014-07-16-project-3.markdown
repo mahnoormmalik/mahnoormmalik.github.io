@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+title: TreeDex
 date: 2014-07-16
 img: treedex.png
 alt: treedex app
